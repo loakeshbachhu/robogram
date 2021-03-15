@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/robogram/static/css/main.6b40e1ca.chunk.css",
+    "main.js": "/robogram/static/js/main.6b734096.chunk.js",
+    "main.js.map": "/robogram/static/js/main.6b734096.chunk.js.map",
+    "runtime-main.js": "/robogram/static/js/runtime-main.54b2871d.js",
+    "runtime-main.js.map": "/robogram/static/js/runtime-main.54b2871d.js.map",
+    "static/css/2.fe359a49.chunk.css": "/robogram/static/css/2.fe359a49.chunk.css",
+    "static/js/2.1f19c517.chunk.js": "/robogram/static/js/2.1f19c517.chunk.js",
+    "static/js/2.1f19c517.chunk.js.map": "/robogram/static/js/2.1f19c517.chunk.js.map",
+    "index.html": "/robogram/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/robogram/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.6b40e1ca.chunk.css.map": "/robogram/static/css/main.6b40e1ca.chunk.css.map",
+    "static/js/2.1f19c517.chunk.js.LICENSE.txt": "/robogram/static/js/2.1f19c517.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robogram/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54b2871d.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.1f19c517.chunk.js",
+    "static/css/main.6b40e1ca.chunk.css",
+    "static/js/main.6b734096.chunk.js"
+  ]
+}
